@@ -1,4 +1,10 @@
 # ACCELQ TIC TAC TOE GAME
+Dowload acelq.7z game in your system
+extract the files
+install libraries using npm i
+run the project using ng serve
+Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
